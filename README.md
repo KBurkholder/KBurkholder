@@ -1,4 +1,4 @@
-#### *&bull; WordPress &bull; Call Center Solutions &bull; Amazon Web Services &bull; Integrated Business Applications &bull; more...*
+### *&bull; WordPress &bull; Call Center Solutions &bull; Amazon Web Services &bull; Integrated Business Applications &bull; more...*
 
 > Kevin Burkholder is an Excellence-driven professional with over 30 years experience in leading projects and people, implementing and 
 overseeing technology programs, and administering all facets of technology initiatives. He possesses in-depth knowledge and understanding 
